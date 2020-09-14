@@ -1,1 +1,2 @@
-dev dev dev dev dev dev version = 1
+config:
+  info: dev dev dev dev dev dev version = 1
